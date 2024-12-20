@@ -3,18 +3,35 @@ project:
   output-dir: docs
 
 website:
-  title: "eltgnd.github.io"
+  title: "Val Eltagonde"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: Home
+        href: index.qmd
+      - href: projects.qmd
+        icon: suit-heart
+        text: Projects
+      - href: blog.qmd
+        icon: pen
+        text: Blog
+      - href: cv.qmd
+        icon: person
+        text: CV
+  sidebar:
+    - title: "Projects"
+      style: "docked"
+      collapse-level: 2
+      contents:
+        - projects.qmd
+    - title: "Blog"
+      contents:
+        - blog.qmd
+        
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: simplex
     toc: true
+    page-layout: full
 
 
 

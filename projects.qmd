@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing: 
+  categories: true
+  contents: projects
+  type: grid
+  grid-columns: 3
+
+  sort-ui: [title,date]
+---

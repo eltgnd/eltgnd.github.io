@@ -4,5 +4,17 @@
   },
   "index.qmd": {
     "index.html": "7b11f90d"
+  },
+  "blog.qmd": {
+    "blog.html": "a6bd13dd"
+  },
+  "cv.qmd": {
+    "cv.html": "2d1b602a"
+  },
+  "projects.qmd": {
+    "projects.html": "35d2513c"
+  },
+  "projects/esukat.qmd": {
+    "esukat.html": "60d2ff59"
   }
 }

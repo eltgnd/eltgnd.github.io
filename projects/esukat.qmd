@@ -1,0 +1,14 @@
+---
+title: Lorem ipsum
+image: media/Val Eltagonde.jpg
+image-alt: "Synergy: Software Solutions 2024"
+
+subtitle: This is a subtitle
+reading-time: "reading time"
+categories: "test hello"
+
+description: "lorem ipsum dolor sit amet"
+
+author: "test"
+date: "test"
+---

@@ -1,7 +1,44 @@
 ---
-title: "eltgnd.github.io"
+title: "Val Eltagonde"
+image: media/Val Eltagonde.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  image-alt: Me at Ateneo de Manila University
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/val-eltagonde-8b6282141/
+    - icon: github
+      text: GitHub
+      href: https://github.com/eltgnd
+    - icon: envelope
+      text: Contact
+      href: mailto::val.eltagonde@student.ateneo.edu
 ---
 
-This is a Quarto website.
+### Bio
+Val is a junior taking up Applied Mathematics and Data Science at Ateneo de Manila University who wants to use data for good. When not joining hackathons or working on projects, Val enjoys spending time running.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+On this site, Val maintains a list of his coding projects,<!-- graphic design work,--> CV, as well as a blog.
+
+### Education
+- Ateneo de Manila University
+    - BS Applied Mathematics - Master in Data Science
+    - Ateneo Financial Aid Scholar, DOST Merit Scholar
+    - *August 2022-Present*
+<!-- - Rizal National Science High School 
+    - Science and Technology, Engineering and Mathematics (STEM) Strand
+    - June 2016-July 2022 -->
+
+### Experience
+- Data Science Intern, Bank of the Philippine Islands (BPI)
+    - Worked alongside the data science team of one of the leading banks in the country.
+    - *July 2023-September 2023*
+<!-- - Apprentice, ADB-Eskwelabs Digital Transformaton for Marikina Footwear Program
+    - Participated in a digital marketing sprint focused on crafting data-driven marketing campaigns.
+    - *November 2023* -->
+- Campus Student Ambassador, Samsung Philippines
+    - Shortlisted as one of fifty from 3,672 applicants in a pioneer mentorship and content-creation program.
+    - *December 2023-May 2024*
