@@ -1,10 +1,11 @@
 ---
 title: "Projects"
 listing: 
-  categories: true
-  contents: projects
+  contents: 
+    - projects
   type: grid
   grid-columns: 3
-
+  date-format: medium
+  categories: numbered
   sort-ui: [title,date]
 ---

@@ -16,5 +16,26 @@
   },
   "projects/esukat.qmd": {
     "esukat.html": "60d2ff59"
+  },
+  "projects/pjdsc_2024.qmd": {
+    "pjdsc_2024.html": "00680bb8"
+  },
+  "projects/pjdsc_2023.qmd": {
+    "pjdsc_2023.html": "eceff62b"
+  },
+  "projects/pjdsc_2024/test.qmd": {
+    "test.html": "8b6d15bf"
+  },
+  "projects/pjdsc_2023/index.qmd": {
+    "index.html": "f60fb454"
+  },
+  "projects/pjdsc_2024/index.qmd": {
+    "index.html": "5b4ef911"
+  },
+  "projects/synergy_2024/index.qmd": {
+    "index.html": "1ba9369d"
+  },
+  "projects/template.qmd": {
+    "template.html": "31658fef"
   }
 }

@@ -4,10 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nLorem ipsum\n\n\n\ntest hello\n\n\n\nlorem ipsum dolor sit amet\n\n\n\ntest\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Projects"
-    ]
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nPJDSC 2023\n\n\n\nHackathon\n\n\nCustomer Segmentation\n\n\n\nExplored various clustering techniques for customer segmentation in a bank context and more.\n\n\n\n\n\n\nNov 6, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPJDSC 2024\n\n\n\nHackathon\n\n\nMobility\n\n\n\nDeveloped a bikeability and walkability indexing model aimed to assist LGU mobility interventions.\n\n\n\n\n\n\nNov 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSynergy 2024\n\n\n\nHackathon\n\n\nSDG 11\n\n\n\nPrototyped a mobile application for calculating carbon footprint, focusing on sustainable user retention.\n\n\n\n\n\n\nJun 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\na\n\n\n\nHackathon\n\n\n\n\n\n\n.\n\n\n\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -15,5 +12,62 @@
     "title": "Val Eltagonde",
     "section": "",
     "text": "Bio\nVal is a junior taking up Applied Mathematics and Data Science at Ateneo de Manila University who wants to use data for good. When not joining hackathons or working on projects, Val enjoys spending time running.\nOn this site, Val maintains a list of his coding projects, CV, as well as a blog.\n\n\nEducation\n\nAteneo de Manila University\n\nBS Applied Mathematics - Master in Data Science\nAteneo Financial Aid Scholar, DOST Merit Scholar\nAugust 2022-Present \n\n\n\n\nExperience\n\nData Science Intern, Bank of the Philippine Islands (BPI)\n\nWorked alongside the data science team of one of the leading banks in the country.\nJuly 2023-September 2023 \n\nCampus Student Ambassador, Samsung Philippines\n\nShortlisted as one of fifty from 3,672 applicants in a pioneer mentorship and content-creation program.\nDecember 2023-May 2024"
+  },
+  {
+    "objectID": "projects/pjdsc_2024.html",
+    "href": "projects/pjdsc_2024.html",
+    "title": "PJDSC 2024",
+    "section": "",
+    "text": "Philippine Junior Data Science Challenge 2024\nHello",
+    "crumbs": [
+      "Projects",
+      "PJDSC 2024"
+    ]
+  },
+  {
+    "objectID": "projects/pjdsc_2024.html#philippine-junior-data-science-challenge-2024",
+    "href": "projects/pjdsc_2024.html#philippine-junior-data-science-challenge-2024",
+    "title": "PJDSC 2024",
+    "section": "",
+    "text": "Hello",
+    "crumbs": [
+      "Projects",
+      "PJDSC 2024"
+    ]
+  },
+  {
+    "objectID": "projects/pjdsc_2024/index.html",
+    "href": "projects/pjdsc_2024/index.html",
+    "title": "PJDSC 2024",
+    "section": "",
+    "text": "Philippine Junior Data Science Challenge 2024\n\n\nOverview\nMy team developed Padyak, aimed at assisting local government units (LGUs) to understand the street-specific components affecting their city’s active transport experience and compare these between areas, across different commuters’ sensitivities to discomfort.\n\n\nKey Features\nWe applied Padyak to Mandaluyong City and produced three results: walkability and bikeability scores for discrete streets; discomfort vs. distance curves to compare areas within the city; and a customization tool where the relative importances of walkability and bikeability components can be adjusted by an LGU in the future, based on results from real mobility surveys, to generate new scores.\n\n\n\n\n\n\n\n\n\nWeb Application\n\n\n\n\n\n\n\nMap with Bikeability Scores\n\n\n\n\n\n\n\nMethodology\n\nData Collection and Cleaning\n\nCleaned OpenStreetMap street network data\nEDSA road traffic accident data\nUsed image segmentation to process ~9,000 images of Mandaluyong City\n\nEstimated a discomfort score based on:\n\nLevel of pedestrian/cyclist access\nPresence of sidewalks crossings, car parking, and bike lanes\nOther physical characteristics affecting sense of security, traffic safety, convenience, attractiveness of route (greenery), accident risk\n\nClustering and ranking of streets\n\nUsing K-Means, we ranked the bikeability and walkability clusters based on papers such as Arellana et. al (2020) and Boongaling et. al (2022) respectively.\nUsed XGBoost for determining what weights to use (Gain score)\nApplied a SHAP explainer for interpretation\n\nCompute Discomfort-vs-Distance Curves: The goal is to compare areas (barangays or cities) in an interpretable and inclusive way for different types of commuters. This approach is based on Reggiani et. al (2021)\nWeb Application Development: We then created a Streamlit web application to showcase the features and how an application can be built for LGUs that utilizes Padyak’s methodology.\n\n\n\nLinks\n\nPadyak won first runner-up and was featured by Ateneo de Manila University here.\nWeb application\nGitHub repository\n\n\n\nAbout the Contest\nHosted by the UP Data Science Society, PJDSC is an annual, nationwide data science competition for senior high school and undergraduate students. For this year, participants were challenged to develop data science projects that address issues in urban mobility."
+  },
+  {
+    "objectID": "projects/pjdsc_2024/index.html#about-the-contest",
+    "href": "projects/pjdsc_2024/index.html#about-the-contest",
+    "title": "PJDSC 2024",
+    "section": "About the contest",
+    "text": "About the contest\nHosted by the UP Data Science Society, PJDSC is an annual, nationwide data science competition for senior high school and undergraduate students. This year, participants were challenged to develop data science projects that address issues in urban mobility."
+  },
+  {
+    "objectID": "projects/pjdsc_2023/index.html",
+    "href": "projects/pjdsc_2023/index.html",
+    "title": "PJDSC 2023",
+    "section": "",
+    "text": "Philippine Junior Data Science Challenge 2023\n\n\nOverview\nMy team created Project DECIPHER, where we explored various clustering techniques for customer segmentation in a bank context. Our project bested more than 100 teams in a three-month period and finished in 10th place.\n\n\nKey Features\nAfter statistically validating our results via hypothesis testing, we applied the results in multiple ways such as creating personalized marketing messages using ChatGPT and using time-series forecasting techniques for the clusters’ behavior. K-Means was chosen to be the final model due to its high silhouette score and a clear visual clustering using t-SNE (dimensionality reduction).\n\n\n\nSummary of Clustering Results\n\n\n\n\nMethodology\n\nData Cleaning: Aggregating various financial datasets provided and performing necessary cleaning to prepare the data for analysis.\nExploratory Data Analysis: Conduct an initial analysis to understand the structure and characteristics of the data.\nCustomer Segmentation Optimization: Tested various clustering techniques including:\n\nK-Means\nK-Medoids\nK-Prototypes\nHDBSCAN\nGaussian Mixture\n\nIntelligent Application:\n\nUsed the Kruskal-Wallis test to determine statistically significant differences among clusters.\nUsed ChatGPT (GPT-3.5 Turbo) to generate hyper-targeted advertisements for each customer segment.\nUsed Prophet, a time series forecasting algorithm to predict transaction volumes for each cluster.\n\n\n\n\nLinks\n\nProject Banner\n\n\n\nAbout the Contest\nHosted by the UP Data Science Society in partnership with the Bank of the Philippine Islands (BPI), PJDSC is an annual, nationwide data science competition for undergraduate students and young professionals. For this year, participants were challenged to develop data science solutions for financial inclusivity."
+  },
+  {
+    "objectID": "projects/synergy_2024/index.html",
+    "href": "projects/synergy_2024/index.html",
+    "title": "Synergy 2024",
+    "section": "",
+    "text": "Synergy 2024: Software Solutions\n\n\nOverview\nWith the task of developing a carbon footprint calculator application, my team developed eSUKAT, a mobile application designed to empower Filipinos to measure and manage their carbon footprint with an emphasis on sustainable user retention.\nWinning first place, we implemented features such as machine learning, optical character recognition (OCR), and GPS-based location tracking, with the goal of semi-automatically tracking users’ three main consumption activities: food, electricity, and transportation. eSUKAT complements this by gamification features, personal analysis, and community-based tracking to inspire sustainable living and foster a sense of community.\n\n\nKey Features\n\neSukat\n\n\nThe app focuses on tracking users’ three main consumption activities.\nFood. Users can manually input their consumption or choose to upload images of their food. The app will automatically detect the type of food and packaging using image recognition and machine learning.\nElectricity. Users can manually input their consumption or choose to upload images of their electricity bills. The app will use OCR to autofill the relevant data, which users can edit if necessary.\nTransportation. Users’ location, once given permission, will be tracked by the app to compute carbon emissions based on the distance traveled and the mode of transport. The app guesses the user’s mode of transportation with easy manual confirmation.\n\n\neNurture\n\n\nTo encourage user retention, users nurture their own virtual companion which are endemic Philippine species (e.g. Tarsier, Philippine Eagle, Tamaraw) Endemic Animals of Philippines\nUsers can earn points through actions that reduce carbon footprint, such as sustainable food choices, which can be spent on their companions. Users can share their companions on social media platforms.\nUsers can do exciting weekly and monthly challenges that offer additional opportunities to earn points and enhance sustainability efforts.\n\n\neTrack\n\n\nPersonal Dashboard. The app offers a detailed summary of the user’s carbon footprint over time, enabling continuous improvement.\nUsers’ carbon footprint data is also converted into tangible impacts (e.g., “Your actions have saved X trees”), making sustainability efforts more relatable and motivating.\nCommunity Dashboard. The app aggregates carbon footprint data for users’ affiliations, such as academic institutions or geographic locations to provide a collective view of users’ community impact.\n\n\n\n\nMockups\n\n\n\n\nLinks\n\nWeb Application Prototype\nBusiness Proposal\n\n\n\nAbout the Contest\nSynergy 2024: Software Solutions is hosted by the UP Engineering Radio Guild, a software-develoopment hackathon designed to utilize engineering minds in creating solutions to modern problems that bring forth societal impacts. For this year, Software Solutions strives towards sustainable development by challenging participants to influence responsible production and consumption of resources through technology and innovation."
+  },
+  {
+    "objectID": "projects/template.html",
+    "href": "projects/template.html",
+    "title": "a",
+    "section": "",
+    "text": "Lorem ipsum\n\n\n\nLorem ipsum\n\n\n\n\n\n\n\n\n\nImage 1\n\n\n\n\n\n\n\nImage 2"
   }
 ]

@@ -15,7 +15,7 @@ about:
       href: https://github.com/eltgnd
     - icon: envelope
       text: Contact
-      href: mailto::val.eltagonde@student.ateneo.edu
+      href: mailto:val.eltagonde@student.ateneo.edu
 ---
 
 ### Bio

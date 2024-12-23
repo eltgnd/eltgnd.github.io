@@ -1,0 +1,43 @@
+---
+title: a
+image: b
+image-alt: c 
+
+categories: ["Hackathon", ""]
+
+description: "."
+date: ", 2023"
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+# Title
+![](Feature Photo.jpg)
+
+
+### Overview
+Lorem ipsum
+
+
+### Key Features
+Lorem ipsum
+
+
+::: {layout-ncol=2 layout-valign="bottom"}
+![Image 1](Image 1.png)
+
+![Image 2](Image 1.png)
+:::
+
+### Methodology
+
+
+### Links
+-[Capitalize Each Word]()
+-[](){target="_blank"}
+
+### About the Contest

@@ -5,6 +5,7 @@ project:
 website:
   title: "Val Eltagonde"
   navbar:
+    background: secondary
     left:
       - text: Home
         href: index.qmd
@@ -18,18 +19,26 @@ website:
         icon: person
         text: CV
   sidebar:
-    - title: "Projects"
-      style: "docked"
-      collapse-level: 2
-      contents:
-        - projects.qmd
+    # - title: "Projects"
+    #   style: "docked"
+    #   collapse-level: 2
+    #   contents:
+    #   - projects.qmd
+    #   - projects/pjdsc_2023/index.qmd
+    #   - projects/pjdsc_2024/index.qmd
+    #   - projects/synergy_2024/index.qmd
     - title: "Blog"
       contents:
         - blog.qmd
+
+  page-navigation: true
         
 format:
   html:
-    theme: simplex
+    theme: 
+      - simplex
+      - custom.scss
+
     toc: true
     page-layout: full
 

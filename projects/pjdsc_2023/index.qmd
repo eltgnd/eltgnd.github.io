@@ -1,0 +1,49 @@
+---
+title: PJDSC 2023
+image: Philippine Junior Data Science Challenge 2023.png
+image-alt: "Philippine Junior Data Science Challenge 2023"
+
+categories: ["Hackathon", "Customer Segmentation"]
+
+description: "Explored various clustering techniques for customer segmentation in a bank context and more."
+date: "November 6, 2023"
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+# Philippine Junior Data Science Challenge 2023
+![](Feature Photo.png)
+
+### Overview
+My team created *Project DECIPHER*, where we explored various clustering techniques for customer segmentation in a bank context. Our project bested more than 100 teams in a three-month period and finished in 10th place.
+
+
+### Key Features
+After statistically validating our results via hypothesis testing, we applied the results in multiple ways such as creating personalized marketing messages using ChatGPT and using time-series forecasting techniques for the clusters' behavior. K-Means was chosen to be the final model due to its high silhouette score and a clear visual clustering using t-SNE (dimensionality reduction).
+
+![Summary of Clustering Results](Clustering.png)
+
+### Methodology
+- Data Cleaning: Aggregating various financial datasets provided and performing necessary cleaning to prepare the data for analysis.
+- Exploratory Data Analysis: Conduct an initial analysis to understand the structure and characteristics of the data.
+- Customer Segmentation Optimization: Tested various clustering techniques including:
+    - K-Means
+    - K-Medoids
+    - K-Prototypes
+    - HDBSCAN
+    - Gaussian Mixture
+- Intelligent Application:
+    - Used the Kruskal-Wallis test to determine statistically significant differences among clusters.
+    - Used ChatGPT (GPT-3.5 Turbo) to generate hyper-targeted advertisements for each customer segment.
+    - Used Prophet, a time series forecasting algorithm to predict transaction volumes for each cluster.
+
+
+### Links
+- [Project Banner](DATEN Banner.jpg){target="_blank"}
+
+### About the Contest
+Hosted by the UP Data Science Society in partnership with the Bank of the Philippine Islands (BPI), PJDSC is an annual, nationwide data science competition for undergraduate students and young professionals. For this year, participants were challenged to develop data science solutions for financial inclusivity.
