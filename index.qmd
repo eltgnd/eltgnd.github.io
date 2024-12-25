@@ -16,29 +16,46 @@ about:
     - icon: envelope
       text: Contact
       href: mailto:val.eltagonde@student.ateneo.edu
+format:
+  html:
+    toc: true
+    toc-depth: 5
+    css: index.css
+    grid:
+      body-width: 1000px
+      margin-width: 200px
 ---
 
-### Bio
+##### BIO
 Val is a junior taking up Applied Mathematics and Data Science at Ateneo de Manila University who wants to use data for good. When not joining hackathons or working on projects, Val enjoys spending time running.
 
-On this site, Val maintains a list of his coding projects,<!-- graphic design work,--> CV, as well as a blog.
+On this site, Val maintains a list of his personal and competition projects,<!-- graphic design work,--> CV, as well as a technical/productivity blog.
 
-### Education
-- Ateneo de Manila University
-    - BS Applied Mathematics - Master in Data Science
-    - Ateneo Financial Aid Scholar, DOST Merit Scholar
-    - *August 2022-Present*
-<!-- - Rizal National Science High School 
-    - Science and Technology, Engineering and Mathematics (STEM) Strand
-    - June 2016-July 2022 -->
+<br>
 
-### Experience
-- Data Science Intern, Bank of the Philippine Islands (BPI)
-    - Worked alongside the data science team of one of the leading banks in the country.
-    - *July 2023-September 2023*
-<!-- - Apprentice, ADB-Eskwelabs Digital Transformaton for Marikina Footwear Program
-    - Participated in a digital marketing sprint focused on crafting data-driven marketing campaigns.
-    - *November 2023* -->
-- Campus Student Ambassador, Samsung Philippines
-    - Shortlisted as one of fifty from 3,672 applicants in a pioneer mentorship and content-creation program.
-    - *December 2023-May 2024*
+##### EDUCATION
+
+***
+
+**BS Applied Mathematics - Master in Data Science** <br> *Ateneo de Manila University* [*Aug 2022 - Present*]{.cvdate}
+
+- A 5-year program in applied mathematics specializing in data science. 
+- Recipient of the Ateneo Financial Aid Scholar (100% tuition grant) and a DOST Merit Scholar
+
+##### EXPERIENCE
+
+***
+
+**Data Science Intern** <br> *Bank of the Philippine Islands* [*Jul 2023 - Sep 2023*]{.cvdate}
+
+- Worked alongside the data science team of one of the leading banks in the country.
+
+**Apprentice** <br> *Asian Development Bank and Eskwelabs* [*November 2023*]{.cvdate}
+
+- Participated in a digital marketing sprint focused on crafting data-driven marketing campaigns.
+
+**Campus Student Ambassador** <br> *Samsung Philippines* [*Dec 2023 - May 2024*]{.cvdate}
+
+- Shortlisted as one of fifty from 3,672 applicants in a pioneer mentorship and content-creation program.
+
+<a href="cv.html" class="btn btn-primary">View my CV</a>

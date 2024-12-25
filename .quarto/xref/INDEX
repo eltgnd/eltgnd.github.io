@@ -9,7 +9,8 @@
     "blog.html": "a6bd13dd"
   },
   "cv.qmd": {
-    "cv.html": "2d1b602a"
+    "cv.html": "2d1b602a",
+    "cv.tex": "136c2124"
   },
   "projects.qmd": {
     "projects.html": "35d2513c"
