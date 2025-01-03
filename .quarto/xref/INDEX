@@ -38,5 +38,8 @@
   },
   "projects/template.qmd": {
     "template.html": "31658fef"
+  },
+  "projects/hack4health/index.qmd": {
+    "index.html": "cd0d908a"
   }
 }
