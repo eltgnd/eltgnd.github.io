@@ -3,41 +3,69 @@ title: "Curriculum Vitae"
 format:
   html:
     toc: true
-    toc-depth: 4
+    toc-depth: 2
 css: cv.css
 ---
 
-#### EDUCATION
+<br>
 
-***
+## EDUCATION
 
-**BS Applied Mathematics - Master in Data Science** <br> *Ateneo de Manila University* [*Aug 2021 --- Present*]{.cvdate}
+#### **BS Applied Mathematics - Master in Data Science**
+*Ateneo de Manila University* [*Aug 2022 - Present*]{.cvdate}
 
--   New principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images
--   Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
--   Expected submission date: Nov 2024
+-   Lorem ipsum dolor sit amet
+-   Lorem ipsum dolor sit amet
+
+#### **Science and Technology, Engineering and Mathematics (STEM) Strand**
+*Rizal National Science High School* [*June 2016 - July 2022*]{.cvdate}
+
+-   Lorem ipsum dolor sit amet
+-   Lorem ipsum dolor sit amet
+
+<br>
 
 ## WORK EXPERIENCE{style="page-break-before: always"}
 
-### Data Scientist
+#### **Campus Student Ambassador** 
+*Samsung Philippines* [*Dec 2023 - May 2024*]{.cvdate}
 
-***Freelance, Multiple Clients*** [Jan 2020 -- June 2021]{.cvdate}
+- Shortlisted as one of fifty from 3,672 applicants among 650+ universities in a pioneer program.
+- Amplified proficiency in marketing and content creation resulting in a 37% engagement rate increase in my account within 30 days. Recognized as one of the top ambassadors of the batch.
 
-Providing data collection, pre-processing, exploratory analysis and modelling services to clients in the early R&D stages of developing data driven products. Projects include:
+#### **Social Media Intern**
+*Asian Center for Journalism* [*Nov 2023 - Dec 2023*]{.cvdate}
 
--   Data description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.
--   Development of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package.
+- Developed social media collaterals and devised marketing strategies to promote center events.
+- Created visually appealing social media content, ensuring consistent branding and aesthetics.
+- Worked closely with the team to coordinate content and enhance online presence.
 
-::: {.no-print}
-## PRESENTATIONS AND WORKSHOPS
+#### **Digital Transformation Apprentice**
+*Eskwelabs* [*Oct 2023 - Nov 2023*]{.cvdate}
 
--   Talk: [Misadventures with Reproducibility in R](https://github.com/cynthiahqy/rladies-2022-11) (30 Nov 2022, R Ladies Melbourne Meetup)
--   Talk: [Designing R Packages](https://github.com/cynthiahqy/design-r-magic_2022-10) (4 Oct 2022, Monash EBS Data Science Research Software Study Group)
--   Talk: [Quarto Websites as Research Compendiums](https://github.com/cynthiahqy/quarto-wiki-template) (16 Aug 2022, Monash EBS Data Science Research Software Study Group)
--   Workshop: [Writing academic papers with Rmarkdown and friends](https://www.cynthiahqy.com/posts/r-markdown-and-friends/) (9 Aug 2022, Monash University)
-:::
+- Spearheaded the development of data-driven marketing strategies with a local Marikina footwear brand focused on increasing market reach and brand recognition.
+- Utilized dashboarding and identified KPIs and brand USP for strategic optimization.
 
-::: {.print-only}
-## References
-Available upon request
-:::
+#### **Data Science Intern**
+*Bank of the Philippine Islands* [*Jul 2023 - Sep 2023*]{.cvdate}
+
+- Led and presented a profitability analysis study that pushed for a follow-up investigation.
+- Developed data cleaning algorithms using Pandas to extract 3 million rows from scanned documents, improving data encoding efficiency by 300%.
+- Prototyped a large language model tool for company document processing and data analysis.
+
+<br>
+
+## ORGANIZATIONS
+
+#### **Research and Strategy Division Head**
+*Office of the Vice President, Ateneo Sanggunian* [*Apr 2024 - Present*]{.cvdate}
+
+- Pioneered the first data-oriented division for the student government.
+- Responsibilities include overseeing database systems, conducting data analysis, acting as a consultant for data-related decisions, and developing efficiency solutions for internal processes.
+
+#### **Creatives Associate**
+*Commission on Disability and Inclusion, Ateneo Sanggunian* [*Oct 2023 - Apr 2024]{.cvdate}
+
+- Designed compelling social media collaterals that uplift the university’s PWD community.
+- Increased social media page reach by 67.9% and engagement by 57.8% in a one-month period.
+

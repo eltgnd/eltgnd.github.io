@@ -29,33 +29,29 @@ format:
 ##### BIO
 Val is a junior taking up Applied Mathematics and Data Science at Ateneo de Manila University who wants to use data for good. When not joining hackathons or working on projects, Val enjoys spending time running.
 
-On this site, Val maintains a list of his personal and competition projects,<!-- graphic design work,--> CV, as well as a technical/productivity blog.
-
-<br>
+On this site, Val maintains a list of his personal and competition projects,<!-- graphic design work,--> CV, as well as a technical/productivity blog. Below is a summary of his recent involvements.
 
 ##### EDUCATION
 
 ***
 
-**BS Applied Mathematics - Master in Data Science** <br> *Ateneo de Manila University* [*Aug 2022 - Present*]{.cvdate}
-
-- A 5-year program in applied mathematics specializing in data science. 
-- Recipient of the Ateneo Financial Aid Scholar (100% tuition grant) and a DOST Merit Scholar
+- **BS Applied Mathematics - Master in Data Science** <br> *Ateneo de Manila University* [*Aug 2022 - Present*]{.cvdate}
+    - A 5-year applied mathematics program specializing in data science. 
+    - Recipient of the Ateneo Financial Aid Scholar (100% tuition grant) and a DOST Merit Scholar.
 
 ##### EXPERIENCE
 
 ***
 
-**Data Science Intern** <br> *Bank of the Philippine Islands* [*Jul 2023 - Sep 2023*]{.cvdate}
+- **Data Science Intern** <br> *Bank of the Philippine Islands* [*Jul 2023 - Sep 2023*]{.cvdate}
+- **Digital Transformation Apprentice** <br> *Eskwelabs* [*Oct 2023 - November 2023*]{.cvdate}
+- **Campus Student Ambassador** <br> *Samsung Philippines* [*Dec 2023 - May 2024*]{.cvdate}
 
-- Worked alongside the data science team of one of the leading banks in the country.
+##### ORGANIZATIONS
 
-**Apprentice** <br> *Asian Development Bank and Eskwelabs* [*November 2023*]{.cvdate}
+***
 
-- Participated in a digital marketing sprint focused on crafting data-driven marketing campaigns.
+- **Research and Strategy Head** <br> *Ateneo Sanggunian* [*Apr 2024-Present*]{.cvdate}
+- **Applications Research Team Head** <br> *Ateneo Mathematics Society* [*Sep 2023 - Apr 2024*]{.cvdate}
 
-**Campus Student Ambassador** <br> *Samsung Philippines* [*Dec 2023 - May 2024*]{.cvdate}
-
-- Shortlisted as one of fifty from 3,672 applicants in a pioneer mentorship and content-creation program.
-
-<a href="cv.html" class="btn btn-primary">View my CV</a>
+<a href="cv.html" class="btn btn-primary">View CV</a>
