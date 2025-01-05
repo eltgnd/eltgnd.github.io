@@ -19,7 +19,7 @@ callout-appearance: simple
 
 ### Overview
 
-With the goal of building solutions for universal healthcare (UHC), this hackathon was a collaboration between the Department of Health and the Development Academy of the Philippines. As a response, my team prototyped **PULSO: Predictive Understanding for Localized Health Surveillance and Optimization**, an application to be used by government health offices that utilizes data science to monitor and predict their constituent’s health data. Our solution is divided into three components: Track, Predict, and Prevent.
+With the goal of building solutions for universal healthcare (UHC), this hackathon was a collaboration between the Department of Health and the Development Academy of the Philippines. As a response, my team prototyped **PULSO: Predictive Understanding for Localized Health Surveillance and Optimization**, an application to be used by government health offices that utilizes data science to monitor and predict their constituent's health data. Our solution is divided into three components: Track, Predict, and Prevent.
 
 ![Log-in and Homepage](Login%20and%20Home.png)
 
@@ -32,7 +32,7 @@ Our proposal bested more than 100 entries and made it to the top 10, giving us t
 - Dashboard: Provides a holistic view of community health and healthcare operations. Key features include:
 - Population Well-Being: Tracks annual check-up rates, COVID-19 immunization rates, and identifies at-risk populations.
 - Hospital Well-Being: Monitors hospital bed capacity and trends in resource utilization.
-- Non-Communicable Diseases Situationer: Highlights the prevalence of chronic diseases like diabetes, heart disease, and Parkinson’s to support targeted interventions.
+- Non-Communicable Diseases Situationer: Highlights the prevalence of chronic diseases like diabetes, heart disease, and Parkinson's to support targeted interventions.
 - Communicable Diseases Situationer: Issues alerts and tracks epidemic thresholds for infectious diseases.
 - Geo-Mapping:
 - Displays choropleth maps for heat index and communicable disease hotspots.

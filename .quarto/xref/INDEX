@@ -41,5 +41,8 @@
   },
   "projects/hack4health/index.qmd": {
     "index.html": "cd0d908a"
+  },
+  "projects/blue_hacks/index.qmd": {
+    "index.html": "8a69e292"
   }
 }
