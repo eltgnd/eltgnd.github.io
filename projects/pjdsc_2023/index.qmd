@@ -3,7 +3,7 @@ title: PJDSC 2023
 image: Philippine Junior Data Science Challenge 2023.png
 image-alt: "Philippine Junior Data Science Challenge 2023"
 
-categories: ["Hackathon", "Customer Segmentation"]
+categories: ["Hackathon", "Business"]
 
 description: "Explored various clustering techniques for customer segmentation in a bank context and more."
 date: "November 6, 2023"
