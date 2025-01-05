@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects – Val Eltagonde</title>
+<title>projects – Val Eltagonde</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,65 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -150,6 +90,11 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./contests.html"> <i class="bi bi-bookmarks" role="img">
+</i> 
+<span class="menu-text">Contests</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> <i class="bi bi-suit-heart" role="img">
@@ -177,225 +122,20 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QnVzaW5lc3M=">Business <span class="quarto-category-count">(1)</span></div><div class="category" data-category="SGFja2F0aG9u">Hackathon <span class="quarto-category-count">(5)</span></div><div class="category" data-category="TWVudGFsJTIwSGVhbHRo">Mental Health <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9iaWxpdHk=">Mobility <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U0RHJTIwMTE=">SDG 11 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUhD">UHC <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Projects</h1>
-</div>
-
-
-
-<div class="quarto-title-meta column-page-left">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
+<p>Hello</p>
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="SGFja2F0aG9uJTJDTWVudGFsJTIwSGVhbHRo" data-listing-date-sort="1714233600000" data-listing-file-modified-sort="1736059821511" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="694">
-<a href="./projects/blue_hacks/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/blue_hacks/Team Photo.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Blue Hacks 2024">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Blue Hacks 2024
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SGFja2F0aG9u'); return false;">
-Hackathon
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWVudGFsJTIwSGVhbHRo'); return false;">
-Mental Health
-</div>
-</div>
-<div class="card-text listing-description">
-Prototyped a mental health management system for Filipino schools in 24 hours.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
 
-</div>
-<div class="listing-date">
-Apr 28, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="SGFja2F0aG9uJTJDVUhD" data-listing-date-sort="1715788800000" data-listing-file-modified-sort="1736055922075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="561">
-<a href="./projects/hack4health/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/hack4health/Team Photo.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Team Photo">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Hack4Health
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SGFja2F0aG9u'); return false;">
-Hackathon
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('VUhD'); return false;">
-UHC
-</div>
-</div>
-<div class="card-text listing-description">
-Prototyped a data-driven public health web application for LGUs under 48 hours.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-May 16, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="SGFja2F0aG9uJTJDQnVzaW5lc3M=" data-listing-date-sort="1699200000000" data-listing-file-modified-sort="1736060003148" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
-<a href="./projects/pjdsc_2023/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/pjdsc_2023/Philippine Junior Data Science Challenge 2023.png" class="thumbnail-image card-img" style="height: 150px;" alt="Philippine Junior Data Science Challenge 2023">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-PJDSC 2023
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SGFja2F0aG9u'); return false;">
-Hackathon
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QnVzaW5lc3M='); return false;">
-Business
-</div>
-</div>
-<div class="card-text listing-description">
-Explored various clustering techniques for customer segmentation in a bank context and more.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Nov 6, 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="SGFja2F0aG9uJTJDTW9iaWxpdHk=" data-listing-date-sort="1731686400000" data-listing-file-modified-sort="1735110522173" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
-<a href="./projects/pjdsc_2024/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/pjdsc_2024/Philippine Junior Data Science Challenge 2024.jpg" class="thumbnail-image card-img" style="height: 150px;" alt="Philippine Junior Data Science Challenge 2024">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-PJDSC 2024
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SGFja2F0aG9u'); return false;">
-Hackathon
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TW9iaWxpdHk='); return false;">
-Mobility
-</div>
-</div>
-<div class="card-text listing-description">
-Developed a bikeability and walkability indexing model aimed to assist LGU mobility interventions.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Nov 16, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="SGFja2F0aG9uJTJDU0RHJTIwMTE=" data-listing-date-sort="1719331200000" data-listing-file-modified-sort="1734940505412" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="414">
-<a href="./projects/synergy_2024/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./projects/synergy_2024/Team Photo.png" class="thumbnail-image card-img" style="height: 150px;" alt="Synergy: Software Solutions 2024">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Synergy 2024
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('SGFja2F0aG9u'); return false;">
-Hackathon
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('U0RHJTIwMTE='); return false;">
-SDG 11
-</div>
-</div>
-<div class="card-text listing-description">
-Prototyped a mobile application for calculating carbon footprint, focusing on sustainable user retention.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-
-</div>
-<div class="listing-date">
-Jun 26, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

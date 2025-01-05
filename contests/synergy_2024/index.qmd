@@ -1,0 +1,50 @@
+---
+title: Synergy 2024
+image: Team Photo.png
+image-alt: "Synergy: Software Solutions 2024"
+
+categories: ["Hackathon", "SDG 11"]
+
+description: "Prototyped a mobile application for calculating carbon footprint, focusing on sustainable user retention."
+date: "June 26, 2024"
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+# Synergy 2024: Software Solutions
+![](Feature Photo.png)
+
+
+### Overview
+With the task of developing a carbon footprint calculator application, my team developed eSUKAT, a mobile application designed to empower Filipinos to measure and manage their carbon footprint with an emphasis on sustainable user retention.
+
+Winning first place, we implemented features such as machine learning, optical character recognition (OCR), and GPS-based location tracking, with the goal of semi-automatically tracking users’ three main consumption activities: food, electricity, and transportation. eSUKAT complements this by gamification features, personal analysis, and community-based tracking  to inspire sustainable living and foster a sense of community.
+
+### Key Features
+1. eSukat
+- The app focuses on tracking users’ three main consumption activities.
+- Food. Users can manually input their consumption or choose to upload images of their food. The app will automatically detect the type of food and packaging using image recognition and machine learning.
+- Electricity. Users can manually input their consumption or choose to upload images of their electricity bills. The app will use OCR to autofill the relevant data, which users can edit if necessary.
+- Transportation. Users’ location, once given permission, will be tracked by the app to compute carbon emissions based on the distance traveled and the mode of transport. The app guesses the user’s mode of transportation with easy manual confirmation.
+2. eNurture
+- To encourage user retention, users nurture their own virtual companion which are endemic Philippine species (e.g. Tarsier, Philippine Eagle, Tamaraw)
+[Endemic Animals of Philippines](https://animalia.bio/endemic-lists/country/endemic-animals-of-philippines)
+- Users can earn points through actions that reduce carbon footprint, such as sustainable food choices, which can be spent on their companions. Users can share their companions on social media platforms.
+- Users can do exciting weekly and monthly challenges that offer additional opportunities to earn points and enhance sustainability efforts.
+3. eTrack
+- Personal Dashboard. The app offers a detailed summary of the user’s carbon footprint over time, enabling continuous improvement.
+- Users’ carbon footprint data is also converted into tangible impacts (e.g., "Your actions have saved X trees"), making sustainability efforts more relatable and motivating.
+- Community Dashboard. The app aggregates carbon footprint data for users’ affiliations, such as academic institutions or geographic locations to provide a collective view of users’ community impact.
+
+![Mockups](Mockups.png)
+
+### Links
+- [Web Application Prototype]("https://synergy-esukat.streamlit.app/")
+- [Business Proposal](Business Proposal.pdf){target="_blank"}
+
+### About the Contest
+Synergy 2024: Software Solutions is hosted by the UP Engineering Radio Guild, a software-develoopment hackathon designed to utilize engineering minds in creating solutions to modern problems that bring forth societal impacts. For this year, Software Solutions strives towards sustainable development by challenging participants to influence responsible production and consumption of resources through technology and innovation.

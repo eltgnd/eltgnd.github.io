@@ -1,0 +1,88 @@
+---
+title: Hack4Health
+image: Team Photo.jpg
+image-alt: Team Photo
+
+categories: ["Hackathon", "UHC"]
+
+description: "Prototyped a data-driven public health web application for LGUs under 48 hours."
+date: "May 16, 2024"
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+# Hack4Health: Building Solutions for Universal Care
+
+### Overview
+
+With the goal of building solutions for universal healthcare (UHC), this hackathon was a collaboration between the Department of Health and the Development Academy of the Philippines. As a response, my team prototyped **PULSO: Predictive Understanding for Localized Health Surveillance and Optimization**, an application to be used by government health offices that utilizes data science to monitor and predict their constituent's health data. Our solution is divided into three components: Track, Predict, and Prevent.
+
+![Log-in and Homepage](Login%20and%20Home.png)
+
+Our proposal bested more than 100 entries and made it to the top 10, giving us the opportunity to prototype and present PULSO.
+
+
+### Key Features
+
+1. **PULSO Track**
+- Dashboard: Provides a holistic view of community health and healthcare operations. Key features include:
+- Population Well-Being: Tracks annual check-up rates, COVID-19 immunization rates, and identifies at-risk populations.
+- Hospital Well-Being: Monitors hospital bed capacity and trends in resource utilization.
+- Non-Communicable Diseases Situationer: Highlights the prevalence of chronic diseases like diabetes, heart disease, and Parkinson's to support targeted interventions.
+- Communicable Diseases Situationer: Issues alerts and tracks epidemic thresholds for infectious diseases.
+- Geo-Mapping:
+- Displays choropleth maps for heat index and communicable disease hotspots.
+- Maps health facility locations and hospital bed availability for optimized resource allocation.
+
+::: {layout-nrow=2 layout-valign="bottom"}
+![](PULSO%20Track%201.png)
+
+![](PULSO%20Track%202.png)
+:::
+
+2. **PULSO Predict**
+- Disease Predict: Uses machine learning models with 75-90% accuracy to predict non-communicable diseases among senior citizens.
+- Forecast: Utilizes time-series forecasting to predict outbreaks of communicable diseases like measles and pertussis.
+- Simulation: Integrates epidemiological models, such as SIR-V, to plan responses to infectious disease outbreaks effectively.
+
+::: {layout-nrow=2 layout-valign="bottom"}
+![](PULSO%20Predict%201.png)
+
+![](PULSO%20Predict%202.png)
+:::
+
+3. **PULSO Prevent**
+- Sends SMS alerts for personalized health risks and regular checkup reminders.
+- Issues timely alerts for public health emergencies and seasonal risks to all constituents.
+
+![](PULSO%20Prevent.png)
+
+
+Many existing solutions provide visualization and data interpretations, however, our solution goes a step further by providing the government sector with actionable recommendations and insights, which are powered by AIs. 
+In addition, our solution also extends to the patients through SMS texting and notifications.
+Also, the handling and gathering of data are very convenient as we will only be using the existing EMR systems of the health agencies.
+
+::: {.callout-tip}
+## What differentiates PULSO from other solutions?
+
+Many existing solutions provide visualization and data interpretations, however, our solution goes a step further by providing the government sector with actionable recommendations and insights, which are powered by AIs.  In addition, our solution also extends to the patients through SMS texting and notifications. Finally, the handling and gathering of data are very convenient as we will only be using the existing EMR systems of the health agencies.
+
+:::
+
+### Methodology
+
+PULSO was prototyped using Streamlit, an open-source Python framework for machine learning and data science applications. For AgapAI, we utilized the OpenAI API as a quick way for demonstration. Other Python packages used include `plotly` and `leaflet` to name a few.
+
+
+### Links
+
+- [Top 10 Finalist Announcement (Team 1202)](https://www.facebook.com/share/p/1Y8zbUUFZm/)
+- [GitHub Repository](https://github.com/eltgnd/pulso-hack4health)
+
+### About the Contest
+
+The START Hackathon: hack4healthPH is an initiative by the Futures Thinking Office (FTO) of the Department of Health (DOH), in collaboration with the Development Academy of the Philippines - Center for Strategic Futures (DAP-CSF). It aims to seek potential and emerging solutions today to ensure a resilient UHC, as well as foster improved health outcomes despite varying and possibly challenging scenarios of the future that the health sector may encounter. The goal of the hackathon is to explore present opportunities to ensure a resilient UHC amidst potential future challenges and uncertainties in the health sector. 

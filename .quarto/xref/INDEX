@@ -47,5 +47,29 @@
   },
   "unfinished/template.qmd": {
     "template.html": "8377e78a"
+  },
+  "projects/sole_searchers/index.qmd": {
+    "index.html": "e4eec615"
+  },
+  "contests.qmd": {
+    "contests.html": "f20b5cf7"
+  },
+  "contests/blue_hacks/index.qmd": {
+    "index.html": "3dfbd6da"
+  },
+  "contests/hack4health/index.qmd": {
+    "index.html": "cc07a499"
+  },
+  "contests/pjdsc_2023/index.qmd": {
+    "index.html": "c602c9e6"
+  },
+  "contests/pjdsc_2024/index.qmd": {
+    "index.html": "b2f2224c"
+  },
+  "contests/sole_searchers/index.qmd": {
+    "index.html": "f70030f7"
+  },
+  "contests/synergy_2024/index.qmd": {
+    "index.html": "b9517116"
   }
 }

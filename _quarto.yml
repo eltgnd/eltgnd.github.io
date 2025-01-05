@@ -9,9 +9,12 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - href: contests.qmd
+        icon: bookmarks
+        text: Contests
       - href: projects.qmd
-        icon: suit-heart
         text: Projects
+        icon: suit-heart
       - href: blog.qmd
         icon: pen
         text: Blog

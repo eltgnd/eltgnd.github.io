@@ -1,0 +1,52 @@
+---
+title: Sole Searchers
+image: Team Photo.jpg
+image-alt: Sole Searchers
+
+categories: ["Hackathon", "Business"]
+
+description: "Proposed an innovative application to boost the Marikina shoemaking industry."
+date: "October 14, 2023"
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+# Sole Searchers Hackathon
+
+![](Team%20Photo%202.jpg)
+
+### Overview
+
+In response to the challenges faced by Marikina City's business owners, particularly its shoemakers, our team proposed **Zappy**, an online clothing coordinating platform that allows users to assemble complete outfits with Marikina's shoe products. Complemented by an AI chatbot and workshops, the proposal ensures that the city's shoemaking industry will remain competitive and resilient in the modern marketplace. **Zappy** has three main components: Learn from Zappy, Dress Zappy, and Ask Zappy.
+
+Our team bested more than 10 groups from various Philippine universities, securing a paid apprenticeship to attend Eskwelabs classes in e-commerce, generative AI, and digital marketing.
+
+### Key Features
+
+![MOCKUPS (From left to right: Dress Zappy, Ask Zappy, Learn from Zappy)](Mockups.png)
+
+#### Dress Zappy
+
+Dress Zappy brings together users' clothing collections and Marikina's renowned shoe products to create a seamless outfit coordination experience. Users can upload images of their clothing, while the feature integrates Marikina's shoe collections into a virtual closet with a smart filtering system for personalized footwear options.
+
+A personalized avatar, Zappy, models outfit combinations, enhancing user engagement and adding a creative dimension to the fashion experience. This innovative feature highlights Marikina's rich heritage while redefining digital clothing coordination.
+
+#### Ask Zappy
+
+Ask Zappy is a virtual assistant that enhances customer experience and supports Marikina's shoemaking industry by addressing inquiries about shoe details, such as sizes, colors, and materials, while promoting the city's rich shoemaking heritage. By automating customer interactions, it reduces manpower needs, aligns with sustainability goals, and allows artisans to focus on perfecting their craft. This feature empowers local shoemakers to embrace digital tools and compete effectively in the modern market.
+
+#### Learn from Zappy
+To address the varying digital literacy levels of Marikina's business owners, the 'Learn from Zappy' initiative will provide accessible resources in English and Tagalog, including video tutorials with transcripts, categorized for easy navigation and available for offline download. It will also feature a week-long workshop on digital marketing, offering hands-on learning and insights from successful small business owners. This combined approach empowers participants to effectively use the platform, showcase products, process orders, and expand their reach in the digital marketplace.
+
+### Links
+
+- [News Article by The GUIDON](https://www.facebook.com/share/p/1G3ketzLF5/)
+- [Pitch Presentation](https://www.canva.com/design/DAFxDP3y028/_J-dxRJqzcmx0miCrq8h2A/view?utm_content=DAFxDP3y028&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h128a6245a9)
+
+### About the Contest
+
+Eskwelabs, an edtech startup, together with the Asian Development Bank (ADB), the Philippines' Department of Trade and Industry (DTI), and the Philippine Footwear Federation, Inc. (PFFI), have collaborated to organize the Sole Searchers Hackathon with the challenge of digitally transforming how Marikina shoemakers market products online. Selected teams were given privilege to attend Eskwelabs classes as apprentices, collaborating with a Marikina shoemaking company.

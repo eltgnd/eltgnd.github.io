@@ -1,12 +1,17 @@
 [
   {
     "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/contests.html",
     "items": [
-      "/projects/blue_hacks/index.html",
-      "/projects/hack4health/index.html",
-      "/projects/pjdsc_2023/index.html",
-      "/projects/pjdsc_2024/index.html",
-      "/projects/synergy_2024/index.html"
+      "/contests/blue_hacks/index.html",
+      "/contests/hack4health/index.html",
+      "/contests/pjdsc_2023/index.html",
+      "/contests/pjdsc_2024/index.html",
+      "/contests/sole_searchers/index.html",
+      "/contests/synergy_2024/index.html"
     ]
   }
 ]
