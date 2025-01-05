@@ -44,5 +44,8 @@
   },
   "projects/blue_hacks/index.qmd": {
     "index.html": "8a69e292"
+  },
+  "unfinished/template.qmd": {
+    "template.html": "8377e78a"
   }
 }
