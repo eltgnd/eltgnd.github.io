@@ -74,5 +74,11 @@
   },
   "projects/qpi_wrapped/index.qmd": {
     "index.html": "243d38fe"
+  },
+  "contests/go_green/index.qmd": {
+    "index.html": "1b2e8244"
+  },
+  "unfinished_contests/template.qmd": {
+    "template.html": "795696e3"
   }
 }
