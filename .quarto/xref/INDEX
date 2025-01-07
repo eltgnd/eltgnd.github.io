@@ -80,5 +80,8 @@
   },
   "unfinished_contests/template.qmd": {
     "template.html": "795696e3"
+  },
+  "contests/IEdeathon/index.qmd": {
+    "index.html": "acd9925a"
   }
 }
