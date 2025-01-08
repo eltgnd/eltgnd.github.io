@@ -1,0 +1,52 @@
+---
+title: 5th Indie-Siyensya
+image: Cover Photo.png
+image-alt: 5th Indie-Siyensya
+
+categories: ["Filmmaking", "Science Communication"]
+
+description: "Produced a 10-minute science documentary that tackles COVID-19 vaccine hesitancy."
+date: "December 15, 2021"
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+# 5th DOST-SEI Indie-Siyensya Filmmaking Competition
+
+### Overview
+
+I was the head writer and narrator for our 10-minute video documentary entry entitled *"Agam-Agham"*. The film addresses the COVID-19 vaccine hesitancy of Filipinos while explaining the science behind the safety and effectiveness of vaccines. With only 1 month of hectic production and as a high school team with no formal film experience, “Agam-Agham” won as the second best film in the Youth category. Thousands of Filipinos were able to watch our documentary, demistifying the doubts toward COVID-19 vaccines while increasing their scientific awareness.
+
+### About the Film
+
+{{< video Trailer.mp4 >}}
+Trailer for *Agam-agham* (The full documentary is linked below)
+
+***"Huwag mag-agam-agam sa Agham."*** Agam-Agham is a short film documentary that focuses on the number of residents of a barangay in Binangonan, Rizal, and the Filipinos in general, who are still hesitant to get vaccinated against COVID-19. It points out the reasons why some people refuse to get vaccinated – fear, doubt, and suspicion toward vaccines, or rather, in science. Thus its title “Agam-Agham,” a play on words coined from the Filipino words “agam-agam” (doubt) and “Agham” (science).
+
+One of the interviewees is a loving mother who wishes to protect her son’s health against the COVID-19 vaccine, and her viewpoint appears to be similar to that of others. The lack of publicly available information about vaccines and their mechanism was the reason behind all the hesitations. Due to this, the production team, as youth with scientific minds and concern for the nation, devised the documentary through analogies and experimentation to be a more informative and comprehensible short film.
+
+### Key Contributions
+
+Aside from overseeing the overall writing for the film, I focused on the science communication aspect where the goal was to provide a broad, intuitive understanding of how vaccines work. These include making analogies that relate viruses and our immune system to everyday concepts.
+
+::: {layout-ncol=2 layout-valign="top"}
+![Comparing an infection as a video game boss](Game%20Analogy%201.png)
+
+![Defeating a video game boss is similar to our immune system learning from vaccines](Game%20Analogy%202.png)
+
+![Comparing our immune system to a keymaster](Key%20Analogy%201.png)
+
+![Relating vaccines as keys to unlock antibodies](Key%20Analogy%202.png)
+:::
+
+### Links
+- [Agam-agham (Full 10-minute documentary)](https://youtu.be/pWBcVgsS5Ps?si=kf05zlmr-Bjo7K1u)
+
+### About the Contest
+
+Indie-Siyensya, is the first science filmmaking competition organized by the Science Education Institute of the Department of Science and Technology (DOST-SEI) to bring science closer to the youth and the general public through film. This year, films adhered to the theme "The Scientist in Me".

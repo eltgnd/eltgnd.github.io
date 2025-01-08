@@ -37,7 +37,7 @@ Lorem ipsum
 
 
 ### Links
--[Capitalize Each Word]()
--[](){target="_blank"}
+- [Capitalize Each Word]()
+- [](){target="_blank"}
 
 ### About the Contest
