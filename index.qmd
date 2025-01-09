@@ -29,7 +29,7 @@ format:
 ##### BIO
 Val is a junior taking up Applied Mathematics and Data Science at Ateneo de Manila University who wants to use data for good. When not joining hackathons or working on projects, Val enjoys spending time running.
 
-On this site, Val maintains a list of his personal and competition projects,<!-- graphic design work,--> CV, as well as a technical/productivity blog. Below is a summary of his recent involvements.
+On this site, Val maintains a list of his personal and competition projects,<!-- graphic design work,--> <!--CV,--> as well as a technical/productivity blog. Below is a summary of his recent involvements.
 
 ##### EDUCATION
 
@@ -54,4 +54,4 @@ On this site, Val maintains a list of his personal and competition projects,<!--
 - **Research and Strategy Head** <br> *Ateneo Sanggunian* [*Apr 2024-Present*]{.cvdate}
 - **Applications Research Team Head** <br> *Ateneo Mathematics Society* [*Sep 2023 - Apr 2024*]{.cvdate}
 
-<a href="cv.html" class="btn btn-primary">View CV</a>
+<!-- <a href="cv.html" class="btn btn-primary">View CV</a> -->

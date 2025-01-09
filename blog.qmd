@@ -1,0 +1,11 @@
+---
+title: Blog
+
+format: 
+  html:
+    page-layout: article
+
+callout-appearance: simple
+---
+
+Hello! You have found my soon-to-be blog page. Unfortunately, I am still in the processing of collecting my previous works. Thanks for checking this out!

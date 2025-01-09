@@ -3,6 +3,8 @@ title: "Contests and Hackathons"
 listing: 
   contents: 
     - contests
+  sort:
+    - "date desc"
   type: grid
   grid-columns: 3
   date-format: medium
