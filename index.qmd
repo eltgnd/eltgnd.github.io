@@ -29,7 +29,7 @@ format:
 ##### BIO
 Val is a junior taking up Applied Mathematics and Data Science at Ateneo de Manila University who wants to use data for good. When not joining hackathons or working on projects, Val enjoys spending time running.
 
-On this site, Val maintains a list of his personal and competition projects,<!-- graphic design work,--> <!--CV,--> as well as a technical/productivity blog. Below is a summary of his recent involvements.
+On this site, Val maintains a list of his competition projects such as hackathons and case competitions and his personal projects. Below is a summary of his recent involvements.
 
 ##### EDUCATION
 
@@ -42,9 +42,9 @@ On this site, Val maintains a list of his personal and competition projects,<!--
 ##### EXPERIENCE
 
 ***
-
+- **Education Innovation Fellowship (Data Science) Intern** <br> *Eskwelabs* [*January 2025 - March 2025*]{.cvdate}
 - **Data Science Intern** <br> *Bank of the Philippine Islands* [*Jul 2023 - Sep 2023*]{.cvdate}
-- **Digital Transformation Apprentice** <br> *Eskwelabs* [*Oct 2023 - November 2023*]{.cvdate}
+- **Digital Transformation Apprentice** <br> *Asian Development Bank with Eskwelabs* [*Oct 2023 - November 2023*]{.cvdate}
 - **Campus Student Ambassador** <br> *Samsung Philippines* [*Dec 2023 - May 2024*]{.cvdate}
 
 ##### ORGANIZATIONS

@@ -9,15 +9,15 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - href: contests.qmd
+      - href: competitions.qmd
         icon: bookmarks
-        text: Contests
+        text: Competitions
       - href: projects.qmd
         text: Projects
         icon: suit-heart
-      - href: blog.qmd
-        icon: pen
-        text: Blog
+      # - href: blog.qmd
+      #   icon: pen
+      #   text: Blog
       # - href: cv.qmd
       #   icon: person
       #   text: CV

@@ -1,0 +1,13 @@
+---
+title: "Competitions"
+listing: 
+  contents: 
+    - contests
+  sort:
+    - "date desc"
+  type: grid
+  grid-columns: 3
+  date-format: medium
+  categories: numbered
+  sort-ui: [title,date]
+---

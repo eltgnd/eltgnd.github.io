@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/contests.html",
+    "listing": "/competitions.html",
     "items": [
       "/contests/pjdsc_2024/index.html",
       "/contests/go_green/index.html",
@@ -11,12 +11,6 @@
       "/contests/pjdsc_2023/index.html",
       "/contests/sole_searchers/index.html",
       "/contests/indie_siyensya_5th/index.html"
-    ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/qpi_wrapped/index.html"
     ]
   }
 ]
