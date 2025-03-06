@@ -12,5 +12,11 @@
       "/contests/sole_searchers/index.html",
       "/contests/indie_siyensya_5th/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/qpi_wrapped/index.html"
+    ]
   }
 ]

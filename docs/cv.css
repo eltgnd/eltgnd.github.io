@@ -1,0 +1,10 @@
+/* all formats */
+
+.cvdate {
+    float: right;
+    font-style: italic
+  }
+
+p {
+    margin-bottom: 3px;
+}
